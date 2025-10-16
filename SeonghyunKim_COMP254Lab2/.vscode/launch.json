@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run BigOh (ex1)",
+      "request": "launch",
+      "mainClass": "ex1.BigOh"
+    },
+    {
+      "type": "java",
+      "name": "Run PrefixAverageExperiment (ex2)",
+      "request": "launch",
+      "mainClass": "ex2.PrefixAverageExperiment"
+    },
+    {
+      "type": "java",
+      "name": "Run UniquenessExperiment (ex3)",
+      "request": "launch",
+      "mainClass": "ex3.UniquenessExperiment"
+    }
+  ]
+}
