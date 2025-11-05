@@ -1,4 +1,3 @@
-package ex3;
 import java.io.File;
 
 /*
